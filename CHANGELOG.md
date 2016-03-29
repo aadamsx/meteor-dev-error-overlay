@@ -1,6 +1,9 @@
-### vNext
+### v1.5.0
 
-* Don’t run the alerts when the server is stopped
+* Don't poll the server when Meteor is connected [#13](https://github.com/stubailo/meteor-dev-error-overlay/pull/13)
+* Don’t run the alerts when the server is stopped [#12](https://github.com/stubailo/meteor-dev-error-overlay/pull/12)
+
+Special thanks to [@mquandalle](https://github.com/mquandalle) for this release!
 
 ### v1.4.0
 
