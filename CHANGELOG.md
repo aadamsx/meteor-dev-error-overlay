@@ -1,3 +1,7 @@
+### v1.5.1
+
+Revert [#13](https://github.com/stubailo/meteor-dev-error-overlay/pull/13) since it [caused a bug](https://github.com/stubailo/meteor-dev-error-overlay/issues/11#issuecomment-203528254).
+
 ### v1.5.0
 
 * Don't poll the server when Meteor is connected [#13](https://github.com/stubailo/meteor-dev-error-overlay/pull/13)
